@@ -11,7 +11,7 @@ body {
 }
 
 div#interface {
-    width: 900px;
+    width: 1100px;
     background-color: white;
     margin: -20px auto 0px auto;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
@@ -104,7 +104,7 @@ nav#menu ul{
     display: block;
     position: absolute;
     top: -20px;
-    left: 1100px;
+    left: 1080px;
 }
 
 nav#menu li{            
